@@ -1,1 +1,1 @@
-# QR-Code-Challenges
+# Frontend Mentor | QR-Code-Challenges Sollutions
