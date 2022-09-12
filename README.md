@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
--   HTML and CSS with Atom 1.60.0 (<https://atom.io/>)
+-   HTML and CSS with [Atom](<https://atom.io/>) 1.60.0
 
 ### What I learned
 
