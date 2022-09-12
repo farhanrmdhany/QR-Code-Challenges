@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Mobile](<Results/QR Mobile.png>)
 
 ### Links
--   Solution URL: https://github.com/farhanrmdhany/QR-Code-Challenges/blob/main/index.html
--   Live Site URL: https://farhanrmdhany.github.io/QR-Code-Challenges/
+-   [Solution URL](https://github.com/farhanrmdhany/QR-Code-Challenges/blob/main/index.html)
+-   [Live Site URL](https://farhanrmdhany.github.io/QR-Code-Challenges/)
 
 ## My process
 
